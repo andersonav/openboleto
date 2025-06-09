@@ -2,14 +2,6 @@
 
 O OpenBoleto é uma biblioteca de código aberto para geração de boletos bancários, um meio de pagamento muito comum no Brasil. O foco é ser simples e ter uma arquitetura compatível com os recursos mais modernos do PHP.
 
-Se esse projeto te auxiliou de alguma forma, você pode contribuir financeiramente para que eu possa continuar a desenvolver projetos open source. As contribuições podem ser:
-
-# Ajude o Projeto a continuar, faça uma doação no PIX!
-
-    b230c7a8-8743-459f-bae5-541ea46a3533
-
-![302100763-dc530122-d9fb-41e4-9edf-dc9c32e74adc](https://github.com/fredroo/cnpj2sql/assets/6863089/1a6505e5-5039-4609-87af-ba84f03d4b08)
-
 ## Instalação
 
 ### Composer

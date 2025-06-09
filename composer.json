@@ -1,12 +1,12 @@
 {
-    "name": "openboleto/openboleto",
+    "name": "andersonav/openboleto",
     "type": "library",
     "description": "Biblioteca para geração de boletos bancários.",
     "keywords": [
         "boleto",
         "boleto bancario"
     ],
-    "homepage": "http://github.com/openboleto/openboleto",
+    "homepage": "http://github.com/andersonav/openboleto",
     "license": "MIT",
     "authors": [
         {
@@ -20,6 +20,10 @@
         {
             "name": "Rogerio Muniz",
             "email": "rogerio@quilhasoft.com.br"
+        },
+        {
+            "name": "Anderson Alves",
+            "email": "andersonalves.dev@gmail.com"
         }
     ],
     "require": {
